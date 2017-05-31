@@ -1,0 +1,7 @@
+{
+  "name": "webtorrenttracker",
+  "private": true,
+  "dependencies": {
+    "bittorrent-tracker": "9.2.2"
+  }
+}
