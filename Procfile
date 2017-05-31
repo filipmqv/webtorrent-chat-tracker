@@ -1,1 +1,1 @@
-web: ./node_modules/bittorrent-tracker/bin/cmd.js --ws
+web: ./node_modules/bittorrent-tracker/bin/cmd.js -p $PORT --trust-proxy 
